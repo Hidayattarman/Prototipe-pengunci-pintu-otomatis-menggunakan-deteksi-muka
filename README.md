@@ -1,2 +1,2 @@
 # Prototipe-pengunci-pintu-otomatis-menggunakan-deteksi-muka
-affdfjg
+Ini merupakan project pembuka pintu otomatis dengan menggunakan pendeteksi wajah agar dapat membuka pintunya. Dalam project ini digunakan beberapa komponent seperti arduino, servo, buzzer, dan push button. Di tambah dengan face_recognition untuk mendeteksi wajah menggunakan kode pemrograman. disini juga di pakai buzzer untuk sebagai penanda dari hasil face recognition ini. Tetapi, ini hanya sebagai pemanis saja. Namun, disini juga disediakan push button untuk dapat membuka pintu secara manual tetapi ditempatkan di tempat yang berbeda.
